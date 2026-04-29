@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+Flask==3.0.3
+gunicorn==22.0.0
+mysql-connector-python==9.0.0
+python-dotenv==1.0.1
+groq==0.9.0
+PyPDF2==3.0.1
+numpy==1.26.4
+=======
+Flask==3.0.3
+gunicorn==22.0.0
+mysql-connector-python==9.0.0
+python-dotenv==1.0.1
+groq==0.9.0
+PyPDF2==3.0.1
+numpy==1.26.4
+>>>>>>> 5a5a918964968a8319a61e8a758aa428924e65ba
+scikit-learn==1.5.1
